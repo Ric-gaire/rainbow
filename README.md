@@ -1,1 +1,4 @@
 # rainbow
+red 
+blue 
+orange
